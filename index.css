@@ -1,0 +1,116 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    
+    background-color: white;
+
+    
+}
+
+header{
+ 
+}
+
+.topo{
+    background-color: #FF69B4;
+    width: 1216px;
+    height: 118px;
+    top: -299px;s
+    left: -584px;
+    gap: 0px;
+    opacity: 0px;
+ 
+}
+
+.menu {
+ 
+
+    
+    
+
+
+}
+
+.RectangleUm {
+    
+    
+    display:flex;
+    flex-direction:row-reverse;
+
+    padding-left:10px;
+    width: 587px;
+    height: 265px;
+    top: -125px;
+    left: -528px;
+    gap: 150px;
+    opacity: 0px;
+
+
+}
+
+.RectangleDois {
+    display:flex ;
+    flex-direction:;
+
+
+    width: 1216px;
+    height: 262px;
+    top: 196px;
+    left: -584px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.RectangleTres{
+    display:flex;
+    width: 1216px;
+    height: 426px;
+    top: 458px;
+    left: -584px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+/* .pUm{
+    width: 587px;
+    height: 265px;
+    top: -125px;
+    left: -528px;
+    gap: 0px;
+    opacity: 0px;
+    color: black;
+
+}
+
+.imgUm{
+    width: 365px;
+    height: 355px;
+    top: -170px;
+    left: 145px;
+
+
+} */
+
+
+
+ ul {
+    display: flex;
+    flex-direction:row ;
+     justify-content:space-between; 
+    list-style-type:none;
+    align-items:center;
+    
+} 
+
+a {
+    color:black;
+    text-decoration: none;
+    
+}
+
